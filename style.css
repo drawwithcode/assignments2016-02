@@ -15,6 +15,14 @@ body {
     margin: 0 auto;
 }
 
+p.description {
+    color:#fff;
+    font-family: 'Crimson Text', serif;
+    
+    font-size: 24px;
+    font-style: italic;
+}
+
 p.name {
     color: #fff;
     font-family: 'Crimson Text', serif;
